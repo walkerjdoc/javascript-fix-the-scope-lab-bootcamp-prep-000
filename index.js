@@ -29,6 +29,6 @@ var funkyFunction = function() {
 // NOTE: To pass this final test, you only need to modify the code below this line.
 var thefunk =function() {
   return function() {
-    return"is" {funkyFunction()
+    return"is" funkyFunction()
     }
   }
